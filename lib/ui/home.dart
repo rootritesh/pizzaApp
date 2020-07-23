@@ -52,7 +52,7 @@ myapp() {
   var myhome = Scaffold(
     appBar: myappbar,
     body: Body_Image2,
-    backgroundColor: Colors.yellow.shade400,
+    backgroundColor: Colors.yellow.shade300,
   );
 
   var design = MaterialApp(
